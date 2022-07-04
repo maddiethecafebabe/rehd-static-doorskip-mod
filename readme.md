@@ -12,5 +12,7 @@ cargo run -- path/to/game/bhd.exe
 ```
 thats it
 
+if something went wrong restore the backup (named `bhd.exe.bak` in the same folder) it created before automatically
+
 # Credits
 - FluffyQuack for the original [patches](https://github.com/FluffyQuack/rehd-nodoors)
